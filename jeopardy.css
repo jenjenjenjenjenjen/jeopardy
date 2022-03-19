@@ -1,0 +1,24 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+td {
+  background-color: #115ff4;
+  color: white;
+  width: 16.66%;
+  height: 125px;
+  text-align: center;
+}
+
+th {
+  background-color: #115ff4;
+  color: white;
+}
